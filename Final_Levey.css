@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	font-style: bold;
+	font-family: "Georgia" sans-serif;
+}
+
+.nutgraf{
+	font-style: italic;
+	color: darkred;
+	border: 3px dashed slategray;
+
+
+}
+
+.background{
+	color: midnightblue;
+
+}
+
+#paragraph{
+	color: dodgerblue;
+	border: 2px solid lightblue;
+}
+
+.findings{
+	font-family: "Georgia" sans-serif;
+	color: slategrey;
+	font-size: 18px;
+
+}
