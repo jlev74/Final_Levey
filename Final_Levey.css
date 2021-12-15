@@ -6,7 +6,7 @@ h1{
 
 .nutgraf{
 	font-style: italic;
-	color: darkred;
+	color: #FB3640;
 	border: 3px dashed slategray;
 
 
@@ -24,7 +24,7 @@ h1{
 
 .findings{
 	font-family: "Georgia" sans-serif;
-	color: slategrey;
+	color: #31393C;
 	font-size: 18px;
 
 }
